@@ -3,4 +3,6 @@ Just started designing the frontend UI via jQUERY HTML CSS Photoshop and maybe s
 
 I'm currently trying to brainstorm more ideas of adding more interaction via CSS animation techniques
 
+05/15 just about done with ui, just touching up a few things in control panel section for admin. once done will start writing backend methods and properties via PHP & sql objects 4 query's on the go..
+
 http://brandonsportfolio.890m.com/homie/
