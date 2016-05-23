@@ -5,4 +5,6 @@ I'm currently trying to brainstorm more ideas of adding more interaction via CSS
 
 05/15 just about done with ui, just touching up a few things in control panel section for admin. once done will start writing backend methods and properties via PHP & sql objects 4 query's on the go..
 
+Finally, completed
+
 http://brandonsportfolio.890m.com/homie/
